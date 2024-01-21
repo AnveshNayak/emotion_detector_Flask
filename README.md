@@ -1,5 +1,5 @@
-Developing Emotion Detector Using Flask and Python
-Application of CRUD Commands and consisting of following task
+Developing Emotion Detector Using Flask and Python, 
+Application of CRUD Commands which consist of following task
 
 Task 1: Create a sentiment analysis application using Watson NLP library
 Task 2: Format the output of the application
